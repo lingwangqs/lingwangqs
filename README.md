@@ -16,7 +16,7 @@ I use machine learning techniques to simulate quantum and classical statistics a
   in a way that is efficient both in computational time and memory. [code will be available later]()
   - [arXiv:2407.20065](https://arxiv.org/abs/2407.20065)
 - Implimenting an SU(2) spin rotational symmetric Density Matrix Renormalization Group (DMRG) algorithm. [code repository](https://github.com/lingwangqs/SU2DMRG)
-  - [arXiv:2306.09695](https://arxiv.org/abs/2306.09695)
+  - [Nat. Mater. 24, 544 (2025)](https://www.nature.com/articles/s41563-024-02071-z)
   - [Phys. Rev. B **105**, L060409 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.L060409)
   - [Phys. Rev. Lett. **124**, 177204 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.177204)
   - [Phys. Rev. Lett. **121**, 107202 (2018)](https://doi.org/10.1103/PhysRevLett.121.107202)
