@@ -14,7 +14,7 @@ I use machine learning techniques to simulate quantum and classical statistics a
 # Coding Projects
 - Symmetrizing Neural Quantum States (NQS) algorithm, preserving lattice symmetries, spin inversion, and total spin conservation symmetries
   in a way that is efficient both in computational time and memory. [code will be available later]()
-  - [arXiv:2407.20065](https://arxiv.org/abs/2407.20065)
+  - [Physical Review B 111 L161116 (2025)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L161116)
 - Implimenting an SU(2) spin rotational symmetric Density Matrix Renormalization Group (DMRG) algorithm. [code repository](https://github.com/lingwangqs/SU2DMRG)
   - [Nat. Mater. 24, 544 (2025)](https://www.nature.com/articles/s41563-024-02071-z)
   - [Phys. Rev. B **105**, L060409 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.L060409)
